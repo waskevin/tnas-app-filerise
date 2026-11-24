@@ -1,0 +1,6 @@
+services:
+  filerise:
+    image: error311/filerise-docker:v3.47.0
+    restart: unless-stopped
+    environment:
+      TZ: Asia/Shanghai

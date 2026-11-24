@@ -1,0 +1,12 @@
+{
+  "name": "FileRise",
+  "source": "https://github.com/error311/FileRise",
+  "docker_image": "error311/filerise-docker:v3.47.0",
+  "version": "v3.47.0",
+  "repository": "https://github.com/waskevin/tnas-app-filerise",
+  "architectures": [
+    "linux/amd64",
+    "linux/arm64"
+  ],
+  "submission_status": "not_submitted"
+}
