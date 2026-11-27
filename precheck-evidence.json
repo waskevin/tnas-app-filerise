@@ -1,0 +1,14 @@
+{
+  "number": 99,
+  "name": "FileRise",
+  "dual_arch": true,
+  "architectures": [
+    "amd64",
+    "arm64"
+  ],
+  "evidence": "http_screenshot",
+  "screenshot_path": "precheck-screenshots/filerise/x86_64/run.png",
+  "precheck_status": "http_ok",
+  "runtime_note": "x86_64 runtime probe returned HTTP 200 after ClamAV initialization; FileRise page screenshot captured",
+  "submission_status": "not_submitted"
+}
